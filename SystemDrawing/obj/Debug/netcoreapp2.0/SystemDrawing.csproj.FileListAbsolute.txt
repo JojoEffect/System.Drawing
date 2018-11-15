@@ -1,0 +1,11 @@
+C:\Users\TauberJo\source\SystemDrawing\SystemDrawing\bin\Debug\netcoreapp2.0\SystemDrawing.deps.json
+C:\Users\TauberJo\source\SystemDrawing\SystemDrawing\bin\Debug\netcoreapp2.0\SystemDrawing.runtimeconfig.json
+C:\Users\TauberJo\source\SystemDrawing\SystemDrawing\bin\Debug\netcoreapp2.0\SystemDrawing.runtimeconfig.dev.json
+C:\Users\TauberJo\source\SystemDrawing\SystemDrawing\bin\Debug\netcoreapp2.0\SystemDrawing.dll
+C:\Users\TauberJo\source\SystemDrawing\SystemDrawing\bin\Debug\netcoreapp2.0\SystemDrawing.pdb
+C:\Users\TauberJo\source\SystemDrawing\SystemDrawing\obj\Debug\netcoreapp2.0\SystemDrawing.csprojAssemblyReference.cache
+C:\Users\TauberJo\source\SystemDrawing\SystemDrawing\obj\Debug\netcoreapp2.0\SystemDrawing.csproj.CoreCompileInputs.cache
+C:\Users\TauberJo\source\SystemDrawing\SystemDrawing\obj\Debug\netcoreapp2.0\SystemDrawing.AssemblyInfoInputs.cache
+C:\Users\TauberJo\source\SystemDrawing\SystemDrawing\obj\Debug\netcoreapp2.0\SystemDrawing.AssemblyInfo.cs
+C:\Users\TauberJo\source\SystemDrawing\SystemDrawing\obj\Debug\netcoreapp2.0\SystemDrawing.dll
+C:\Users\TauberJo\source\SystemDrawing\SystemDrawing\obj\Debug\netcoreapp2.0\SystemDrawing.pdb
